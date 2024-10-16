@@ -1,6 +1,6 @@
 
 import React, { useState, useEffect } from 'react';
-import SlideshowTextStyle  from '../css/SlideshowTextStyle';
+// import {SlideshowTextStyle}  from '../css/SlideshowTextStyle';
 
 const SlideshowText = ({ texts, interval }) => {
   const [currentIndex, setCurrentIndex] = useState(0);

@@ -1,5 +1,5 @@
 
-import HomeStyle  from "../css/HomeStyle"
+import {HomeStyle}  from "../css/HomeStyle"
 
 
 const Home = () => {
@@ -10,7 +10,7 @@ const Home = () => {
                 <div class="container">
                     <form>
                         <div className="logos">
-                            <img className="fe" src="./src/assets/Formula_E_2017 1.png" alt="" />
+                            <img className="fe" src="./src/assets/Formula_E1.png" alt="Formula1" />
                             <img className="dot" src="./src/assets/dot.png" alt="" />
                             <img className="mahindra" src="./src/assets/mahindra.png" alt="" />
                         </div>

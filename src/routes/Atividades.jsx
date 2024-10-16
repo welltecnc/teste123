@@ -1,8 +1,8 @@
 import Slideshow from '../routes/Slideshow';
 import { AtividadesStyle } from '../css/AtividadesStyle';
 import React from 'react';
-import SlideshowText from './SlideshowText';
-import SlideshowResp from './SlideshowResp';
+// import {SlideshowText} from './SlideshowText'
+// import {SlideshowResp} from './SlideshowResp';
 
 
 const Atividades = () => {
@@ -41,8 +41,8 @@ const Atividades = () => {
           </div>
         </section>
 
-        <Slideshow></Slideshow>
-        <SlideshowResp></SlideshowResp>
+        {/* <Slideshow></Slideshow>
+        <SlideshowResp></SlideshowResp> */}
       </section>
     </AtividadesStyle>
   );

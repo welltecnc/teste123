@@ -1,4 +1,4 @@
-import ErrorStyle  from "../css/ErrorStyle"
+import {ErrorStyle}  from "../css/ErrorStyle"
 
 const Error = () => {
     return (

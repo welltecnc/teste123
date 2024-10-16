@@ -1,7 +1,7 @@
 
 import { MdLogout } from "react-icons/md";
 import { useNavigate } from "react-router-dom";
-import  AgendamentosStyle  from "../css/AgendamentosStyle";
+import  {AgendamentosStyle } from "../css/AgendamentosStyle";
 
 const Agendamentos = () => {
 

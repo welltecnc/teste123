@@ -1,7 +1,7 @@
 import {useRef, useState,useEffect} from 'react'
 import {useNavigate, Link} from 'react-router-dom'
 //import Dashboard from './Dashboard'
-import LoginStyle  from '../css/LoginStyle';
+import {LoginStyle}  from '../css/LoginStyle';
 
 
 const Login =()=>{

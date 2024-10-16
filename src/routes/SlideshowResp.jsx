@@ -1,7 +1,7 @@
 // Slideshow.jsx
 import React, { useState, useEffect } from 'react';
 import { useSpring, animated } from 'react-spring';
-import SlideshowRespStyle from '../css/SlideshowRespStyle';
+import {SlideshowRespStyle} from '../css/SlideshowRespStyle';
 
 const images = [
     '../src/assets/pistaresp.png',

@@ -1,7 +1,7 @@
 import { useParams, Link, useNavigate } from 'react-router-dom'
 import { ImCancelCircle } from "react-icons/im";
 import { useState, useEffect } from 'react';
-import  CadastrarUsuarioStyle  from '../css/CadastrarUsuarioStyle';
+import  {CadastrarUsuarioStyle } from '../css/CadastrarUsuarioStyle';
 
 
 const CadastrarUsuario = () => {
