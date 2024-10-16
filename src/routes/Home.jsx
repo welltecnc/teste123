@@ -1,9 +1,9 @@
 
 import {HomeStyle}  from "../css/HomeStyle"
-import FormulaE1 from '../../src/assets/Formula_E1.png'
 import ponto from '../../src/assets/dot.png'
 import mahindra from '../../src/assets/mahindra.png'
 import data from '../../src/assets/data.png'
+import F1 from '../../src/assets/Formula_E1.png'
 
 
 const Home = () => {
@@ -14,7 +14,7 @@ const Home = () => {
                 <div class="container">
                     <form>
                         <div className="logos">
-                            <img className="fe" src={FormulaE1} alt="Formula1" />
+                            <img className="fe" src={F1} alt="Formula1" />
                             <img className="dot" src={ponto} alt="teste" />
                             <img className="mahindra" src={mahindra} alt="teste" />
                         </div>
