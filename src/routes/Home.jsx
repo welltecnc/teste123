@@ -4,6 +4,7 @@ import ponto from '../../public/dot.png'
 import mahindra from '../../public/mahindra.png'
 import data from '../../src/assets/data.png'
 import F1 from '../../public/Formula_E1.png'
+import teste from '../../public/imagem.png'
 
 
 const Home = () => {
@@ -14,6 +15,7 @@ const Home = () => {
                 <div class="container">
                     <form>
                         <div className="logos">
+                        <img className="" src={teste} alt="imagem" />
                             <img className="fe" src={F1} alt="Formula1" />
                             <img className="dot" src={ponto} alt="teste" />
                             <img className="mahindra" src={mahindra} alt="teste" />
