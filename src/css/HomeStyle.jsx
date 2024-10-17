@@ -19,7 +19,7 @@ export const HomeStyle = styled.section`
     display: flex;
     align-items: center;
     justify-content:center;
-    background-image: url('./src/assets/imagem.png');
+    background-image: url('./public/imagem.png');
     background-size: cover;
     margin-top: -40px;
     
