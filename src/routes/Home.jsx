@@ -1,9 +1,9 @@
 
 import {HomeStyle}  from "../css/HomeStyle"
-import ponto from '../../src/assets/dot.png'
-import mahindra from '../../src/assets/mahindra.png'
+import ponto from '../../public/dot.png'
+import mahindra from '../../public/mahindra.png'
 import data from '../../src/assets/data.png'
-import F1 from '../../src/assets/Formula_E1.png'
+import F1 from '../../public/Formula_E1.png'
 
 
 const Home = () => {
